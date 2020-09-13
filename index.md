@@ -14,7 +14,7 @@ Next you can make you own design of key ring, which we will 3D print. You might 
 * A key ring with raised letters.
 * A key ring with cut out letters.
 
-! [examples](assets/images/samples.jpg)
+![examples](assets/images/samples.jpg)
 
 The best design will depend on the letters in your design and the font you choose.
 
