@@ -5,14 +5,13 @@ layout: default
 
 ## 3D projects
 
-First, make the 3D coder keyring  project from the [code club site](https://projects.raspberrypi.org/en/projects?software[]=blockscad)
-
+First, make the 3D coder keyring project from the [code club site](https://projects.raspberrypi.org/en/projects?software[]=blockscad). This will help you learn to use BlocksCAD. 
 
 Next you can make you own design of key ring, which we will 3D print. You might like to make one with your name, or you may have another idea - it's up to you. You could make:
 
 * A key ring with just letters like the example.
-* A key ring with raised letters.
-* A key ring with cut out letters.
+* A key ring with raised letters. [(Link to instructions)](raised.md)
+* A key ring with cut out letters.[(Link to instructions)](cutout.md)
 
 ![examples](assets/images/samples.jpg)
 
